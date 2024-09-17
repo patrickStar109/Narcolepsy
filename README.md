@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](link-to-releases) section.
+1. Download the latest release from the [Releases](https://github.com/patrickStar109/Narcolepsy/releases/tag/download) section.
 2. Extract the files to your preferred location.
 3. Run `Narcolepsy.exe` to start the application.
 
